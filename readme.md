@@ -1,4 +1,8 @@
-##MvvmCross Sqlite-Net
+## **DEPRECATED**
+
+### Look at the [MvvmCross SQLite-PCL](https://github.com/MvvmCross/MvvmCross-Plugins/tree/master/SQLite-PCL) plugin as replacement
+
+**MvvmCross Sqlite-Net**
 
 An attempt to allow the community to more easily contribute...
 
